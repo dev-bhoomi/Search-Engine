@@ -1,0 +1,20 @@
+.app{
+  display: grid;
+  place-items: center;
+}
+
+.search{
+  padding: 10px;
+  font-size: 20px;
+}
+.list{
+  padding: 0;
+  text-align: center;
+  list-style: none;
+}
+.listItem{
+  margin-bottom: 20px;
+  font-size: 25px;
+  color: #444;
+  font-weight: 300;
+}

@@ -6,7 +6,7 @@ This is a simple Search-Engine project made with React.js. It helps users find t
 
 Insert gif or link to demo
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmU0eDI1YjE4NGt2bGU3YjViZTFrejk0aWhxcnBjcGdzNW44Zm0zNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/50n8Yahf2YoM8ctMsP/giphy.gif)
+![Alt Text](https://www.veed.io/view/10c4b649-a10b-46b4-9481-e4cfdbd1ce0c?panel=share)
 
 ## Deployment
 

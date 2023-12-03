@@ -6,7 +6,7 @@ This is a simple Search-Engine project made with React.js. It helps users find t
 
 Insert gif or link to demo
 
-![Alt Text](https://www.veed.io/view/10c4b649-a10b-46b4-9481-e4cfdbd1ce0c?panel=share)
+![Alt Text](<iframe src="https://www.veed.io/embed/10c4b649-a10b-46b4-9481-e4cfdbd1ce0c" width="744" height="504" frameborder="0" title="React App - Google Chrome 2023-11-22 13-20-09" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>)
 
 ## Deployment
 
